@@ -1,0 +1,29 @@
+Conforme o ECMASCRIPT temos 9 tipos de dados:
+
+* Data Types / tipos de dados
+    *Primitivos
+    *Estrutural
+    *Estrutural primitivo
+
+##Primitivos
+
+    *String
+    *Number
+    *Boolean
+    *Undefined
+    *Symbol
+    *BigInt
+
+##Estruturais
+
+    *Objeto
+        *Array
+        *Map 
+        *Set
+        *Date
+        *...
+    *Function
+
+##Primitivo Estrutural
+
+    *Null
